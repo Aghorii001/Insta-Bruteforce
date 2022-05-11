@@ -8,7 +8,7 @@
 ### Facebook fixed both issues and awarded a combined bounty of $5.000.
 ### Download&install
 ### apt-get install tor
-### git clone https://github.com/Ha3MrX/InstaBrute
+### git clone https://github.com/Aghorii001/Insta-Bruteforce.git
 ### cd InstaBrute
 ### chmod +x insta.sh
 ### ./insta.sh
